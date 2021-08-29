@@ -47,6 +47,12 @@ body{
 
 // HOME
 
+.titulo__principal{
+    background-color: $principal;
+    width: 250px;
+    border-radius: 25px;
+}
+
 .imagen__principal{
     width: 100%;
 }
@@ -116,6 +122,10 @@ footer{
     text-align: center;
 }
 
+h5{
+    font-weight: bold;
+}
+
 .icon__imagen{
     width: 25px;
 }
@@ -166,6 +176,11 @@ footer{
 }
 
 // OBRAS SOCIALES
+
+h4{
+    font-weight: bold;
+}
+
 
 .obras{
     margin: 25px;

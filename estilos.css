@@ -31,6 +31,12 @@ body {
   color: #EFE3D0;
 }
 
+.titulo__principal {
+  background-color: #E0C097;
+  width: 250px;
+  border-radius: 25px;
+}
+
 .imagen__principal {
   width: 100%;
 }
@@ -125,6 +131,10 @@ footer {
   text-align: center;
 }
 
+h5 {
+  font-weight: bold;
+}
+
 .icon__imagen {
   width: 25px;
 }
@@ -203,6 +213,10 @@ footer {
     background-color: #F8E2CF;
   }
 }
+h4 {
+  font-weight: bold;
+}
+
 .obras {
   margin: 25px;
   border-radius: 25px;
